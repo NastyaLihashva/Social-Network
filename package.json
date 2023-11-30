@@ -2,7 +2,7 @@
   "name": "social-network",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/NastyaLihashva/Social-Network",
+  "homepage": "https://github.com/NastyaLihashva.github.io/Social-Network",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
