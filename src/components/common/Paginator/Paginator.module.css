@@ -1,0 +1,24 @@
+.paginator{
+    display: flex;
+    gap: 15px;
+}
+
+.selectedPage{
+    font-weight: bold;
+}
+
+.pages{
+    display: flex;
+    font-size: 16px;
+    color: white;
+
+}
+
+.page{
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+button{
+
+}

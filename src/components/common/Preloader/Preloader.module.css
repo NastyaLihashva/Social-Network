@@ -1,0 +1,8 @@
+.preloader{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    align-items: center;
+    width: 80%;
+    z-index: 100;
+}
