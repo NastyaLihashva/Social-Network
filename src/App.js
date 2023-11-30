@@ -3,9 +3,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import HeaderContainer from './components/Header/HeaderContainer';
 import NavbarContainer from './components/Navbar/NavbarContainer';
-/*import DialogsContainer from './components/Dialogs/DialogsContainer';*/
 import UsersContainer from './components/Users/UsersContainer';
-/*import ProfileContainer from './components/Profile/ProfileContainer';*/
 import Login from './components/Login/Login';
 import { connect } from 'react-redux';
 import { initializeAppThunkCreater } from './redux/app-reducer';
