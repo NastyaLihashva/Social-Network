@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/NastyaLihashva.github.io/Social-Network/static/css/main.8b783fd7.css",
-    "main.js": "/NastyaLihashva.github.io/Social-Network/static/js/main.2282c71a.js",
-    "static/css/189.bf385322.chunk.css": "/NastyaLihashva.github.io/Social-Network/static/css/189.bf385322.chunk.css",
-    "static/js/189.2a79b0ef.chunk.js": "/NastyaLihashva.github.io/Social-Network/static/js/189.2a79b0ef.chunk.js",
-    "static/css/934.a9956676.chunk.css": "/NastyaLihashva.github.io/Social-Network/static/css/934.a9956676.chunk.css",
-    "static/js/934.4c809fa8.chunk.js": "/NastyaLihashva.github.io/Social-Network/static/js/934.4c809fa8.chunk.js",
-    "static/js/787.eaaab13d.chunk.js": "/NastyaLihashva.github.io/Social-Network/static/js/787.eaaab13d.chunk.js",
-    "static/media/loader.gif": "/NastyaLihashva.github.io/Social-Network/static/media/loader.90672f1deffccbcdf4f1.gif",
-    "index.html": "/NastyaLihashva.github.io/Social-Network/index.html",
-    "main.8b783fd7.css.map": "/NastyaLihashva.github.io/Social-Network/static/css/main.8b783fd7.css.map",
-    "main.2282c71a.js.map": "/NastyaLihashva.github.io/Social-Network/static/js/main.2282c71a.js.map",
-    "189.bf385322.chunk.css.map": "/NastyaLihashva.github.io/Social-Network/static/css/189.bf385322.chunk.css.map",
-    "189.2a79b0ef.chunk.js.map": "/NastyaLihashva.github.io/Social-Network/static/js/189.2a79b0ef.chunk.js.map",
-    "934.a9956676.chunk.css.map": "/NastyaLihashva.github.io/Social-Network/static/css/934.a9956676.chunk.css.map",
-    "934.4c809fa8.chunk.js.map": "/NastyaLihashva.github.io/Social-Network/static/js/934.4c809fa8.chunk.js.map",
-    "787.eaaab13d.chunk.js.map": "/NastyaLihashva.github.io/Social-Network/static/js/787.eaaab13d.chunk.js.map"
+    "main.css": "/nastyalihashva.github.io/Social-Network/static/css/main.8b783fd7.css",
+    "main.js": "/nastyalihashva.github.io/Social-Network/static/js/main.bed79208.js",
+    "static/css/189.bf385322.chunk.css": "/nastyalihashva.github.io/Social-Network/static/css/189.bf385322.chunk.css",
+    "static/js/189.2a79b0ef.chunk.js": "/nastyalihashva.github.io/Social-Network/static/js/189.2a79b0ef.chunk.js",
+    "static/css/934.a9956676.chunk.css": "/nastyalihashva.github.io/Social-Network/static/css/934.a9956676.chunk.css",
+    "static/js/934.4c809fa8.chunk.js": "/nastyalihashva.github.io/Social-Network/static/js/934.4c809fa8.chunk.js",
+    "static/js/787.eaaab13d.chunk.js": "/nastyalihashva.github.io/Social-Network/static/js/787.eaaab13d.chunk.js",
+    "static/media/loader.gif": "/nastyalihashva.github.io/Social-Network/static/media/loader.90672f1deffccbcdf4f1.gif",
+    "index.html": "/nastyalihashva.github.io/Social-Network/index.html",
+    "main.8b783fd7.css.map": "/nastyalihashva.github.io/Social-Network/static/css/main.8b783fd7.css.map",
+    "main.bed79208.js.map": "/nastyalihashva.github.io/Social-Network/static/js/main.bed79208.js.map",
+    "189.bf385322.chunk.css.map": "/nastyalihashva.github.io/Social-Network/static/css/189.bf385322.chunk.css.map",
+    "189.2a79b0ef.chunk.js.map": "/nastyalihashva.github.io/Social-Network/static/js/189.2a79b0ef.chunk.js.map",
+    "934.a9956676.chunk.css.map": "/nastyalihashva.github.io/Social-Network/static/css/934.a9956676.chunk.css.map",
+    "934.4c809fa8.chunk.js.map": "/nastyalihashva.github.io/Social-Network/static/js/934.4c809fa8.chunk.js.map",
+    "787.eaaab13d.chunk.js.map": "/nastyalihashva.github.io/Social-Network/static/js/787.eaaab13d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b783fd7.css",
-    "static/js/main.2282c71a.js"
+    "static/js/main.bed79208.js"
   ]
 }
